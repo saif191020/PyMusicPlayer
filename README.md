@@ -31,7 +31,12 @@ pip install pygame
 ## Running The App
 
 Click the Load Music Button to Select the desired songs.
-Then Select songs from the Playist.
+
+Then Select songs from the Playlist.
+
+Then Click Play to Play the Songs.
+
+
 ![pymusic](https://user-images.githubusercontent.com/59336381/76986608-e30c3f00-6967-11ea-87a1-2b8ee6052728.png)
 
 ## Built With
